@@ -1,1 +1,1 @@
-FIRST_GIT_TRY
+FIRST_GIT_TRY 헤헤 그냥 그렇다고.
